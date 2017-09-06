@@ -1,5 +1,4 @@
 # hello-world
-my goals
 Hey Githubpersons...
 always been a fan of php, python, java, android and so on
 
